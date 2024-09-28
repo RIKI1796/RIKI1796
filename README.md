@@ -1,1 +1,3 @@
-<h1>HI I'am Hafiz Septian</h1>
+<h1>HI I'am Hafiz Tri Septian</h1>
+
+<p>I'am a newbie Programmer</p>
