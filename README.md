@@ -2,7 +2,7 @@
 
 <p>I'am a beginner Programmer</p>
 
-<p>Bahasa Yang di pahami</p>
+<h3>—Bahasa Yang di pahami</h3>
 <li><img src="html.png" width="25px"/></li>
 <li><img src="css.png" width="25px"/></li>
 <li><img src="js.png" width="25px"/></li>
