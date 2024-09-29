@@ -7,4 +7,4 @@
 <li><img src="css.png" width="20px"/></li>
 <li><img src="js.png" width="25px"/></li>
 
-<video controls src="mntp.mp4" poster="poster.png"></video>
+![](mntp.mp4)
