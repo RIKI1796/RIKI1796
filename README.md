@@ -6,3 +6,5 @@
 <li><img src="html.png" width="25px"/></li>
 <li><img src="css.png" width="20px"/></li>
 <li><img src="js.png" width="25px"/></li>
+
+<video src="mntp.mp4" autoplay></video>
