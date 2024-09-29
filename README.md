@@ -7,4 +7,5 @@
 <li><img src="css.png" width="20px"/></li>
 <li><img src="js.png" width="25px"/></li>
 
-<img alt="Coder GIF" height=250 width=350 margin-left="50px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+<br>
+<br><br><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
