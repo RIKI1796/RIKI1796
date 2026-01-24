@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 </p>
 
-## **Hello World I'M Hafiz Tri Septian**
+## **Hello World I'am Hafiz Tri Septian. I'am Student Programmer.**
 
 
 ## 🌐 Socials:
@@ -23,4 +23,5 @@
 [![](https://visitcount.itsvg.in/api?id=RIKI1796&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
